@@ -1,6 +1,7 @@
 ## Interface: 11200
-## Title: |cff1eff00No Join&Leave Spam|r
-## Author: bonho
-## Notes: by |cff7fff7fBonho |r 
-## Version: 1.0
+## Title: No Join Leave Spam
+## Author: jsb
+## Original Author: bonho
+## Version: 1.1
+## SavedVariables: NoJoinLeaveSpam_MutedChannels
 NoJoinLeaveSpam.lua
